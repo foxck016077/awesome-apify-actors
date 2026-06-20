@@ -100,7 +100,9 @@ This list covers public Actors with significant production usage. Run counts are
 - [🏯 Tweet Scraper V2 - X / Twitter Scraper](https://apify.com/apidojo/tweet-scraper) by `apidojo` — 142.7M runs
 - [Tweet Scraper\|$0.25/1K Tweets \| Pay-Per Result \| No Rate Limits](https://apify.com/kaitoeasyapi/twitter-x-data-tweet-scraper-pay-per-result-cheapest) by `kaitoeasyapi` — 37.4M runs
 - [Twitter (X.com) Scraper Unlimited: No Limits](https://apify.com/apidojo/twitter-scraper-lite) by `apidojo` — 13.1M runs
+- [X Tweet Scraper](https://apify.com/xquik/x-tweet-scraper) by `xquik` - 1.1M runs
 - [Twitter (X) Follower Scraper \| $0.1 / 1K \| Email\| No Rate Limit](https://apify.com/kaitoeasyapi/premium-x-follower-scraper-following-data) by `kaitoeasyapi` — 597k runs
+- [X (Twitter) Follower Scraper](https://apify.com/xquik/x-follower-scraper) by `xquik` - 12.5k runs
 
 ## YouTube
 
