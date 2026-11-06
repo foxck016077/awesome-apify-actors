@@ -23,6 +23,8 @@ This list covers public Actors with significant production usage. Run counts are
 - [Real Estate](#real-estate)
 - [Jobs](#jobs)
 - [Lead Generation](#lead-generation)
+- [Finance & Compliance](#finance--compliance)
+
 - [Email & Productivity](#email-productivity)
 - [How to add an Actor](#how-to-add-an-actor)
 - [License](#license)
@@ -132,12 +134,30 @@ This list covers public Actors with significant production usage. Run counts are
 - [Indeed Scraper](https://apify.com/misceres/indeed-scraper) by `misceres` — 1.5M runs
 - [🚀 Indeed jobs scraper [PPR]](https://apify.com/borderline/indeed-scraper) by `borderline` — 593k runs
 - [Career Site Job Listing API](https://apify.com/fantastic-jobs/career-site-job-listing-api) by `fantastic-jobs` — 498k runs
+- [ATS Hiring Signals](https://apify.com/goldenrod_serrano/ats-hiring-signals) by `goldenrod_serrano` — Normalized open jobs from Greenhouse, Lever, Ashby, Workable, SmartRecruiters and Recruitee, with optional change tracking and hiring score.
+- [Workday Hiring Signals](https://apify.com/goldenrod_serrano/workday-hiring-signals) by `goldenrod_serrano` — Jobs from myworkdayjobs.com boards with country/city filters past the 2,000-job list cap, plus change tracking.
+
+
 
 ## Lead Generation
 
 - [Contact Details Scraper](https://apify.com/vdrmota/contact-info-scraper) by `vdrmota` — 12.2M runs
 - [Skip Trace](https://apify.com/one-api/skip-trace) by `one-api` — 3.3M runs
 - [✨Leads Finder - $1.5/1k leads with Emails [Apollo Alternative]](https://apify.com/code_crafter/leads-finder) by `code_crafter` — 947k runs
+- [Lead Leak Check](https://apify.com/goldenrod_serrano/lead-leak-check-apify) by `goldenrod_serrano` — Offline audit of Zapier/Make/n8n lead pipelines from a text/JSON/CSV description; 0-100 leak-risk score with ranked fixes.
+
+## Finance & Compliance
+
+- [SEC Form D Funding Signals](https://apify.com/goldenrod_serrano/sec-form-d-funding-signals) by `goldenrod_serrano` — Recent US private raises from EDGAR Form D filings: amount, industry, state, related persons.
+- [SEC Comment Letters](https://apify.com/goldenrod_serrano/sec-comment-letters) by `goldenrod_serrano` — SEC staff UPLOAD/CORRESP letters by ticker, CIK or keyword, one clean row per letter.
+- [NCUA Call Report](https://apify.com/goldenrod_serrano/ncua-call-report) by `goldenrod_serrano` — Quarterly NCUA 5300 call report data for ~4,300 US credit unions with growth and risk signals.
+- [Shopify to QBO Reconciliation](https://apify.com/goldenrod_serrano/shopify-qbo-reconciliation) by `goldenrod_serrano` — Compares Shopify order/payout CSV exports with a QuickBooks Online export and lists missing, duplicate and mismatched entries.
+
+
+
+
+
+
 
 ## Email & Productivity
 
